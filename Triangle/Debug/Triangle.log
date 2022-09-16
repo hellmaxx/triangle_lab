@@ -1,0 +1,8 @@
+﻿  Triangle.cpp
+C:\Users\Maximilian\source\repos\Triangle\Triangle\Triangle.cpp(102,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maximilian\source\repos\Triangle\Triangle\Triangle.cpp(103,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maximilian\source\repos\Triangle\Triangle\Triangle.cpp(104,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maximilian\source\repos\Triangle\Triangle\Triangle.cpp(105,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maximilian\source\repos\Triangle\Triangle\Triangle.cpp(106,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Maximilian\source\repos\Triangle\Triangle\Triangle.cpp(107,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Triangle.vcxproj -> C:\Users\Maximilian\source\repos\Triangle\Debug\Triangle.exe
